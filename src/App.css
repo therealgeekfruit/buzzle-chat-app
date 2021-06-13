@@ -116,9 +116,9 @@
   width: 100%;
   display: inline-block;
 }
-div {
+/* div {
   color: white;
-}
+} */
 .message-avatar {
   width: 44px;
   height: 44px;
